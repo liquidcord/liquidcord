@@ -59,8 +59,6 @@ Once it's injected, open Discord settings and look for the Liquidcord tab.
 
 By default the plugin points at a public backend so the sync works out of the box for anyone using the plugin.
 
-If you want to self-host everything, there's a `backend/` folder with the server code (Bun + Postgres + Elysia).
-
 ---
 
 ## Quick note
